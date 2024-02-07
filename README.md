@@ -31,7 +31,7 @@ Open Visual Studio Project Sheet2Jianpu.sln and build the program in Release typ
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/kevin90045/Sheet2Jianpu}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  commit = {c6397739b867ca6dac54e95aa37892bba245a397}
 }
 ```
 ## License
