@@ -16,7 +16,7 @@ Sheet2Jianpu is a Windows Form program to convert MusicXML files into Jianpu (ç°
   - nckuhc_font_02.ttf
   - nckuhc_font_03.ttf
 
-## Installation
+## How to Build
 Open Visual Studio Project Sheet2Jianpu.sln and build the program in Release type. Then, you will find Sheet2Jianpu.exe under bin/Release.
 
 ## Usage
